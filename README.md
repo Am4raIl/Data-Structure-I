@@ -54,3 +54,54 @@ No terminal, dentro da pasta do projeto, execute:
 
 ```bash
 make
+```
+Isso irá gerar um executável chamado `teste`.
+
+### 2. Execução
+
+Para rodar o programa, você deve fornecer os dados do labirinto via entrada padrão (teclado) ou redirecionar um arquivo de entrada.
+
+Linux:
+```bash
+./teste < entrada.txt
+```
+Windows:
+```DOS
+teste.exe < entrada.txt
+```
+
+### 3. Limpeza
+
+Para remover os arquivos objetos (.o) e o executável gerado:
+
+```bash
+make clean
+```
+
+## 📝 Formato de Entrada
+
+O programa espera a seguinte entrada:
+  * Dois inteiros N e M (linhas e colunas, máx 1000).
+  * A matriz de caracteres representando o labirinto:
+    - "." : Caminho livre
+    - "#" : Parede
+    - "A" : Posição inicial do Tributo
+    - "B" : Posição de um Bestante
+    - "S" : Saída (se houver representação específica)
+
+Exemplo:
+
+```bash
+5 5
+A...#
+.#.#.
+.....
+#.B.#
+.....
+```
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+Desenvolvido por Felipe Amaral.
