@@ -104,4 +104,6 @@ A...#
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
+---
+
 Desenvolvido por Felipe Amaral.
