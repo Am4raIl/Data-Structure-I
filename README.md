@@ -252,5 +252,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 |:---|:---|
 | **Marcelo Ferraz de Araújo Costa Filho** | [@MarceloFerraz](https://github.com/marcelfz) |
 | **Felipe Kitamoto Amaral** | [@Am4raIl](https://github.com/Am4raIl) |
+| **Gustavo Cunha Gonçalves** | [@gustavoCunhaG](https://github.com/gustavoCunhaG) |
 
 <p align="center">Desenvolvido para a disciplina de <strong>Estrutura de Dados I</strong> — UFES 2024</p>
